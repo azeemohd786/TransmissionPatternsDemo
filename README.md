@@ -1,7 +1,7 @@
 # TransmissionPatternsDemo
 Delegates VS Notifications VS Observations in iOS
 
-This source code is for refernce from youtube video - https://youtu.be/7EK-LCgnx1g
+This source code is prepared for reference from youtube video - https://youtu.be/7EK-LCgnx1g
 
 ![swift2](https://user-images.githubusercontent.com/37884888/138548940-35658bf0-49a3-4b06-aa0d-826b1826cea5.png)
 
